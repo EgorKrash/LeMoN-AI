@@ -19,4 +19,4 @@ The exact architecture might have already changed, so check the NN's file for de
 ## Oh my god, I want it!
 Well, that's great. Contact any of us for information on contributing or GIVING US MONEY... Em... Investing.
 
-P.S. If you have mocap gear, that you are willing to give us to use for a day or so, we will owe you a bear.
+P.S. If you have mocap gear, that you are willing to give us to use for a day or so, we will owe you a beer.
